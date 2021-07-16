@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrash28
 - 👀 I’m interested in developing softwares
 - 🌱 I’m currently learning ReactJS
-- 📫 How to reach me rashmimunasinghe2000@gmail.com
+- 📫 How to reach me alexthegeek2001@gmail.com
 
 <!---
 mrash28/mrash28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
