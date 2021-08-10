@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrash28
 - 👀 I’m interested in developing softwares
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Spring boot with REST APIs
 - 📫 How to reach me alexthegeek2001@gmail.com
 
 <!---
